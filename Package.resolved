@@ -1,0 +1,41 @@
+{
+  "pins" : [
+    {
+      "identity" : "bluesocket",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/IBM-Swift/BlueSocket.git",
+      "state" : {
+        "revision" : "c9894fd117457f1d006575fbfb2fdfd6f79eac03",
+        "version" : "1.0.200"
+      }
+    },
+    {
+      "identity" : "swift-http-server",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/bjtj/swift-http-server.git",
+      "state" : {
+        "revision" : "1f17a3ad4f0e326b40fda5a82543bf64f2378e22",
+        "version" : "0.1.23"
+      }
+    },
+    {
+      "identity" : "swift-upnp-tools",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/bjtj/swift-upnp-tools.git",
+      "state" : {
+        "revision" : "4e5a05b49e417ec2e12c98e417484544259233a1",
+        "version" : "0.1.22"
+      }
+    },
+    {
+      "identity" : "swift-xml",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/bjtj/swift-xml.git",
+      "state" : {
+        "revision" : "65ac296d6bf0460910664c1ee4786b8a1d545dab",
+        "version" : "0.1.14"
+      }
+    }
+  ],
+  "version" : 2
+}
